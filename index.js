@@ -60,7 +60,7 @@ http.createServer(function (request, response) {
 
   // var tong = kl.tinhtich(100,5);
   // response.end('ketQua:' + tong);
-}).listen( process.env.PORT || '5200');
+}).listen( process.env.PORT || '3000');
 
 
 
